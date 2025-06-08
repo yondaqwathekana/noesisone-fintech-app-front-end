@@ -1,0 +1,11 @@
+name: fintech_auth_frontend
+description: A new Flutter project.
+
+environment:
+  sdk: '^3.8.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
